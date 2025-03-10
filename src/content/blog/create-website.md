@@ -11,7 +11,7 @@ heroImage: "/blog-placeholder-1.jpg"
 - 用Cloudflare托管你的域名
 - 使用github来搭建属于你的网站
 ## 通过Spaceship购买你的域名
-> **提示:** 如果你可以容忍诸如 *username.github.io* 这样的二级域名，你可以选择跳过第一章节从而节省一笔不多的开销
+> **提示:** 如果你可以容忍诸如 *username.github.io* 这样的二级域名，你可以选择直接来到[使用github来搭建属于你的网站](https://blog.lcrstem.top/blog/create-website/#使用github来搭建属于你的网站)从而节省一笔不多的开销。但事实上，一个属于自己的域名能干的事还有很多，比如电子邮件转发，甚至解析你的MC服务器ip！
 
 ## 关于Spaceship
 
