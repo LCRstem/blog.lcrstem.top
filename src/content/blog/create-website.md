@@ -11,25 +11,11 @@ heroImage: "/blog-placeholder-1.jpg"
 - 用Cloudflare托管你的域名
 - 使用github来搭建属于你的网站
 ## 通过Spaceship购买你的域名
-> **提示:** 如果你可以容忍 `username.github.io` 这样的二级域名，你可以选择跳过第一章节从而节省一笔不多的开销
+> **提示:** 如果你可以容忍诸如 `username.github.io` 这样的二级域名，你可以选择跳过第一章节从而节省一笔不多的开销
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+## 关于Spaceship
 
-# H1
-
-## H2
-
-### H3
-
-#### H4
-
-##### H5
-
-###### H6
-
-## Paragraph
-
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+[Spaceship.com](https://www.spaceship.com/zh)是一家成立于 2019 年的域名注册商，其背后是全球第二大域名注册商和顶级网络服务提供商 [Namecheap](https://www.namecheap.com/)。Spaceship在安全性方面表现较为稳定，它采用了业内标准的SSL加密技术，确保用户在操作时的数据安全。并且Spaceship还提供域名隐私保护功能，帮助用户在注册域名时隐藏个人信息，防止恶意骚扰和隐私泄露。
 
 Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
 
