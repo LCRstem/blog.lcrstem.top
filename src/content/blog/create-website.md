@@ -11,7 +11,7 @@ heroImage: "/blog-placeholder-1.jpg"
 - 用Cloudflare托管你的域名
 - 使用github来搭建属于你的网站
 ## 通过Spaceship购买你的域名
-> **提示:** 如果你可以容忍 `code`* 这样的二级域名，你可以选择跳过第一章节从而节省一笔不多的开销
+> **提示:** 如果你可以容忍 `username.github.io` 这样的二级域名，你可以选择跳过第一章节从而节省一笔不多的开销
 
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
 
