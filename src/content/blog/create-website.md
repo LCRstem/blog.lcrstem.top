@@ -7,7 +7,7 @@ heroImage: "/blog-placeholder-1.jpg"
 
 #### 在这篇博客中，你讲学到：
 
-- [通过Spaceship购买你的域名]([http://handlebarsjs.com/](#通过spaceship购买你的域名)
+- [通过Spaceship购买你的域名]([https://blog.lcrstem.top/blog/create-website/#通过spaceship购买你的域名])
 - 用Cloudflare托管你的域名
 - 使用github来搭建属于你的网站
 ## 通过Spaceship购买你的域名
