@@ -26,7 +26,7 @@ heroImage: "/blog-placeholder-1.jpg"
 ## 注册Spaceship账号
 1.访问[Spaceship](https://www.spaceship.com/zh)，点击右上角的“登录”选项
 2.点击登录页面左下角的“注册”并在如图所示的界面内按要求输入个人信息进行注册
-![注册页面](/blog-placeholder-about.jpg)
+![注册页面](/df892b8eebbc737de2ab5c88ab470597.png)
 ```markdown
 ![Alt text](./full/or/relative/path/of/image)
 ```
