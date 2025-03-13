@@ -47,7 +47,7 @@ heroImage: "/blog-placeholder-1.jpg"
 ![地址簿](/add.png)
 > **提示:** 这里并没有强制要求真实信息，如果您注重隐私，可以参考上图
 
-### 搜素您的域名！
+### 搜索您的域名！
 访问[域名搜索](https://www.spaceship.com/zh/domain-search/)并在搜索栏中输入您想要的域名如 *mywebsite.top* *mywebsite.xyz*等
 具体关于域名类型可以访问[域名后缀](https://baike.sogou.com/m/fullLemma?lid=51153503)
 在这里，我推荐.top，.xyz等域名后缀，这类域名首年通常仅需10元左右续费也是在30元左右，如图是 *lcrstemblog.top*的搜索结果，明显.top比别的域名便宜
@@ -58,6 +58,7 @@ heroImage: "/blog-placeholder-1.jpg"
 
 至此，您的域名应该已经购买完毕了，你可以前往[域名管理](https://www.spaceship.com/zh/application/domain-list-application)来确认您的域名是否已经归您。并且您可以在此页面选择是否自动续费和手动续费
 > **提示:** 当你的域名过期了，它将会被回收！请注意您域名的**到期时间**并通过自动续费或手动续费维持使用权！！
+
 ## 用Cloudflare托管你的域名
 
 ![blog placeholder](/df892b8eebbc737de2ab5c88ab470597.png)
