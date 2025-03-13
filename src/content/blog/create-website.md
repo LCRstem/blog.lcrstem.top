@@ -8,7 +8,7 @@ heroImage: "/blog-placeholder-1.jpg"
 #### 在这篇博客中，你将学到：
 
 - [通过Spaceship购买你的域名](https://blog.lcrstem.top/blog/create-website/#通过spaceship购买你的域名)
-- 用Cloudflare托管你的域名
+- [用Cloudflare托管你的域名](https://blog.lcrstem.top/blog/create-website/#用Cloudflare托管你的域名)
 - 使用github来搭建属于你的网站
 ## 通过Spaceship购买你的域名
 > **提示:** 如果你可以容忍诸如 *username.github.io* 这样的二级域名，你可以选择直接来到[使用github来搭建属于你的网站](https://blog.lcrstem.top/blog/create-website/#使用github来搭建属于你的网站)从而节省一笔不多的开销。但事实上，一个属于自己的域名能干的事还有很多，比如电子邮件转发，甚至解析你的MC服务器ip！
@@ -56,12 +56,9 @@ heroImage: "/blog-placeholder-1.jpg"
 若您决定了您要购买的域名，直接点击*加入购物车*并点击随后的*查看购物车*，在弹出的窗口中直接点击*继续*然后*结账*
 网页将自动跳转至订单，**请仔细确认“支付详情”和“我的物品”的内容**，确认无误后点击结账，按照要求购买域名
 
-
-```markdown
-![Alt text](./full/or/relative/path/of/image)
-```
-
-### Output
+至此，您的域名应该已经购买完毕了，你可以前往[域名管理](https://www.spaceship.com/zh/application/domain-list-application)来确认您的域名是否已经归您。并且您可以在此页面选择是否自动续费和手动续费
+> **提示:** 当你的域名过期了，它将会被回收！请注意您域名的**到期时间**并通过自动续费或手动续费维持使用权！！
+## 用Cloudflare托管你的域名
 
 ![blog placeholder](/df892b8eebbc737de2ab5c88ab470597.png)
 
