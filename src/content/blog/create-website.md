@@ -5,7 +5,7 @@ pubDate: "Mar 11 2025"
 heroImage: "/blog-placeholder-1.jpg"
 ---
 
-#### 在这篇博客中，你讲学到：
+#### 在这篇博客中，你将学到：
 
 - [通过Spaceship购买你的域名](https://blog.lcrstem.top/blog/create-website/#通过spaceship购买你的域名)
 - 用Cloudflare托管你的域名
@@ -17,12 +17,16 @@ heroImage: "/blog-placeholder-1.jpg"
 
 [Spaceship.com](https://www.spaceship.com/zh)是一家成立于 2019 年的域名注册商，其背后是全球第二大域名注册商和顶级网络服务提供商 [Namecheap](https://www.namecheap.com/)。Spaceship在安全性方面表现较为稳定，它采用了业内标准的SSL加密技术，确保用户在操作时的数据安全。并且Spaceship还提供域名隐私保护功能，帮助用户在注册域名时隐藏个人信息，防止恶意骚扰和隐私泄露。
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+# 为什么选择Spaceship
 
-## Images
-
-### Syntax
-
+- Spaceship的域名种类齐全且价格实惠，可以满足不同行业和个人的需求
+- Spaceship的用户界面友好，操作简单，能轻松完成购买流程
+- Spaceship面向全球用户注册和管理域名，是一个国际化的平台，适合跨境业务的用户
+- Spaceship是国外的域名商，使用Github等搭建网站无需国内备案（如果使用阿里云等的服务器还是要备案）
+## 注册Spaceship账号
+1.访问[Spaceship](https://www.spaceship.com/zh)，点击右上角的“登录”选项
+2.点击登录页面左下角的“注册”并在如图所示的界面内按要求输入个人信息进行注册
+![注册页面](https://github.com/LCRstem/blog.lcrstem.top/blob/main/public/df892b8eebbc737de2ab5c88ab470597.png)
 ```markdown
 ![Alt text](./full/or/relative/path/of/image)
 ```
