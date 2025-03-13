@@ -24,9 +24,31 @@ heroImage: "/blog-placeholder-1.jpg"
 - Spaceship面向全球用户注册和管理域名，是一个国际化的平台，适合跨境业务的用户
 - Spaceship是国外的域名商，使用Github等搭建网站无需国内备案（如果使用阿里云等的服务器还是要备案）
 ## 注册Spaceship账号
-1.访问[Spaceship](https://www.spaceship.com/zh)，点击右上角的“登录”选项
-2.点击登录页面左下角的“注册”并在如图所示的界面内按要求输入个人信息进行注册
+访问[Spaceship](https://www.spaceship.com/zh)，点击右上角的“登录”选项。点击登录页面左下角的“注册”并在如图所示的界面内按要求输入个人信息进行注册
 ![注册页面](/df892b8eebbc737de2ab5c88ab470597.png)
+接着，根据提示完成邮箱验证等操作
+![账户验证](/login.png)
+
+## 配置您的账户
+# 选择后续支付方式
+前往[付款方式](https://www.spaceship.com/zh/application/paymentmethod/)并选择您能使用的购买方式
+目前支持的付款方式有：
+- 支付宝
+- PayPal
+- Apple Pay
+- Google Pay
+- 信用卡/借记卡
+- 比特币等加密货币
+
+按操作要求完成付款验证
+
+# 添加地址簿
+前往[地址簿式](https://www.spaceship.com/zh/application/address-book/)并点击添加地址
+![地址簿](/add.png)
+> **提示:** 这里并没有强制要求真实信息，如果您注重隐私，可以参考上图
+
+
+
 ```markdown
 ![Alt text](./full/or/relative/path/of/image)
 ```
