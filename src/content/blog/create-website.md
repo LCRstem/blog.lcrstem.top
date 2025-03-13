@@ -51,7 +51,7 @@ heroImage: "/blog-placeholder-1.jpg"
 访问[域名搜索](https://www.spaceship.com/zh/domain-search/)并在搜索栏中输入您想要的域名如 *mywebsite.top* *mywebsite.xyz*等
 具体关于域名类型可以访问[域名后缀](https://baike.sogou.com/m/fullLemma?lid=51153503)
 在这里，我推荐.top，.xyz等域名后缀，这类域名首年通常仅需10元左右续费也是在30元左右，如图是 *lcrstemblog.top*的搜索结果，明显.top比别的域名便宜
-![域名购买]/buyip.png)
+![域名购买](/buyip.png)
 
 
 
