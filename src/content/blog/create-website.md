@@ -13,24 +13,24 @@ heroImage: "/blog-placeholder-1.jpg"
 ## 通过Spaceship购买你的域名
 > **提示:** 如果你可以容忍诸如 *username.github.io* 这样的二级域名，你可以选择直接来到[使用github来搭建属于你的网站](https://blog.lcrstem.top/blog/create-website/#使用github来搭建属于你的网站)从而节省一笔不多的开销。但事实上，一个属于自己的域名能干的事还有很多，比如电子邮件转发，甚至解析你的MC服务器ip！
 
-## 关于Spaceship
+### 关于Spaceship
 
 [Spaceship.com](https://www.spaceship.com/zh)是一家成立于 2019 年的域名注册商，其背后是全球第二大域名注册商和顶级网络服务提供商 [Namecheap](https://www.namecheap.com/)。Spaceship在安全性方面表现较为稳定，它采用了业内标准的SSL加密技术，确保用户在操作时的数据安全。并且Spaceship还提供域名隐私保护功能，帮助用户在注册域名时隐藏个人信息，防止恶意骚扰和隐私泄露。
 
-# 为什么选择Spaceship
+### 为什么选择Spaceship
 
 - Spaceship的域名种类齐全且价格实惠，可以满足不同行业和个人的需求
 - Spaceship的用户界面友好，操作简单，能轻松完成购买流程
 - Spaceship面向全球用户注册和管理域名，是一个国际化的平台，适合跨境业务的用户
 - Spaceship是国外的域名商，使用Github等搭建网站无需国内备案（如果使用阿里云等的服务器还是要备案）
-## 注册Spaceship账号
+### 注册Spaceship账号
 访问[Spaceship](https://www.spaceship.com/zh)，点击右上角的“登录”选项。点击登录页面左下角的“注册”并在如图所示的界面内按要求输入个人信息进行注册
 ![注册页面](/df892b8eebbc737de2ab5c88ab470597.png)
 接着，根据提示完成邮箱验证等操作
 ![账户验证](/login.png)
 
-## 配置您的账户
-# 选择后续支付方式
+### 配置您的账户
+#### 选择后续支付方式
 前往[付款方式](https://www.spaceship.com/zh/application/paymentmethod/)并选择您能使用的购买方式
 目前支持的付款方式有：
 - 支付宝
@@ -39,13 +39,19 @@ heroImage: "/blog-placeholder-1.jpg"
 - Google Pay
 - 信用卡/借记卡
 - 比特币等加密货币
-
 按操作要求完成付款验证
+![地址簿](/pay.png)
 
-# 添加地址簿
+### 添加地址簿
 前往[地址簿式](https://www.spaceship.com/zh/application/address-book/)并点击添加地址
 ![地址簿](/add.png)
 > **提示:** 这里并没有强制要求真实信息，如果您注重隐私，可以参考上图
+
+### 搜素您的域名！
+访问[域名搜索](https://www.spaceship.com/zh/domain-search/)并在搜索栏中输入您想要的域名如 *mywebsite.top* *mywebsite.xyz*等
+具体关于域名类型可以访问[域名后缀](https://baike.sogou.com/m/fullLemma?lid=51153503)
+在这里，我推荐.top，.xyz等域名后缀，这类域名首年通常仅需10元左右续费也是在30元左右，如图是 *lcrstemblog.top*的搜索结果，明显.top比别的域名便宜
+![域名购买]/buyip.png)
 
 
 
