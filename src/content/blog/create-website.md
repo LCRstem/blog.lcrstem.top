@@ -1,7 +1,7 @@
 ---
-title: "个人网站的搭建与基础配置"
+title: "个人网站的搭建与配置"
 description: "通过Spaceship和Cloudflare结合github来搭建属于你的网站！"
-pubDate: "Mar 11 2025"
+pubDate: "Mar 13 2025"
 heroImage: "/blog-placeholder-1.jpg"
 ---
 
